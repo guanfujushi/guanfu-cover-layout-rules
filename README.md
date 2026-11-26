@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-cover-layout-rules)
+
 **English**: Short-video cover layout guide — a zone-by-zone safe-area coordinate table for 3:4 canvases, five typography rules (size / weight / stroke), five color schemes, a cover-title synergy formula, and a six-question thumbnail readability check.
 
 ---
